@@ -17,5 +17,4 @@ Summary
 The logistic regression model achieves a balanced accuracy of 0.944, excelling in predicting "healthy loans" with high precision. However, due to limited data on "high-risk loans," the model's precision is slightly lower for this category.
 After oversampling the minority class, the model's precision improves. The balanced accuracy score rises to 0.996, and recall for "high-risk loans" increases to 1.00.
 In summary, the model is precise in predicting "healthy loans," and for improved prediction rates in "high-risk loans," oversampling followed by logistic regression is recommended.
-![image](https://github.com/mabbasi1994/credit-risk-classification/assets/126529977/5301b7fc-6f18-4944-bec5-18f31f804f70)
 
